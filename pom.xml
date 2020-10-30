@@ -32,7 +32,7 @@
             <!-- springCloud -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-dependencies</artifactId>
+                <artifactId>spring-cloud-dcomependencies</artifactId>
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <!--在import时，导入-->
